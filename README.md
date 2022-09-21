@@ -1,10 +1,10 @@
 # 🪐 About Me
-Leon, 25 years old. Loving Science & Technology.
-Building Apps & Products for people like you.
+Leon, 25 years old. Loving Science & Technology.<br />
+Building Apps & Products for people like you.<br />
 
-💬 Ask me about any tech-related stuff.
-📫 How to reach me: Email - leon@28minds.com
-⚡ It’s all 0’s and 1’s
+💬 Ask me about any tech-related stuff. <br />
+📫 How to reach me: Email - leon@28minds.com<br />
+⚡ It’s all 0’s and 1’s<br />
 
 ## 🔭 Projects
 #### [HabitTeam](https://habitteam.app)
