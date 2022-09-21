@@ -2,6 +2,10 @@
 Leon, 25 years old. Loving Science & Technology.
 Building Apps & Products for people like you.
 
+💬 Ask me about any tech-related stuff.
+📫 How to reach me: Email - leon@28minds.com
+⚡ It’s all 0’s and 1’s
+
 ## 🔭 Projects
 #### [HabitTeam](https://habitteam.app)
 The Idea of an app that inspires millions of people inspire & motivate each other. Download the app & upgrade yourself. 📱✨
@@ -30,7 +34,3 @@ My own Photobooth build with a Mini Computer, a printer & own programmed Soft & 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leonschwanitz&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
-
----
-
-### If you want to work with us, shoot me an email at: leon@28minds.com
