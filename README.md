@@ -33,4 +33,4 @@ My own Photobooth build with a Mini Computer, a printer & own programmed Soft & 
 
 ---
 
-### If you want to work with me, shoot me an email at: leon@28minds.com
+### If you want to work with us, shoot me an email at: leon@28minds.com
