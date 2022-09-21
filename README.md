@@ -10,7 +10,7 @@ The Idea of an app that inspires millions of people inspire & motivate each othe
 The platform for digital & efficient placement of healthcare staffing services in Germany. 👨‍⚕️
 
 #### [PerfectStory](https://perfectstory.net)
-My own Photobooth build with a Mini Computer, an Arduino for Lights, a printer & own programmed Software. 📸
+My own Photobooth build with a Mini Computer, a printer & own programmed Soft & Hardware. 📸
 
 ## 💼 My Company's
 [28minds](https://28minds.com), [GetYourNurse](https://getyournurse.com)
