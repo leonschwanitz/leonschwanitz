@@ -1,4 +1,4 @@
-# 🪐 About Me:
+# 🪐 About Me
 Leon, 25 years old. Loving Science & Technology.
 Building Apps & Products for people like you.
 
@@ -12,7 +12,7 @@ The platform for digital & efficient placement of healthcare staffing services i
 #### [PerfectStory](https://perfectstory.net)
 My own Photobooth build with a Mini Computer, an Arduino for Lights, a printer & own programmed Software. 📸
 
-## 💼 My Company's:
+## 💼 My Company's
 [28minds](https://28minds.com), [GetYourNurse](https://getyournurse.com)
 
 
