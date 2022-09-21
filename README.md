@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭Working on HabitTeam, 28minds & GetYourNurse
+# 🪐 About Me:
+Leon, 25 years old. Loving Science & Technology.
+Building Apps & Products for people like you.
+
+## 🔭 Projects:
+#### [HabitTeam](https://habitteam.app)
+The Idea of an app that inspires millions of people inspire & motivate each other. Download the app & upgrade yourself. 📱✨
+
+#### [GetYourNurse](https://getyournurse.de)
+The platform for digital & efficient placement of healthcare staffing services in Germany. 👨‍⚕️
+
+#### [PerfectStory](https://perfectstory.net)
+My own Photobooth build with a Mini Computer, an Arduino for Lights, a printer & own programmed Software. 📸
+
+## 💼 My Company's:
+[28minds](https://28minds.com), [GetYourNurse](https://getyournurse.com)
+
+
+
 
 
 ## 🌐 Socials:
@@ -10,7 +27,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leonschwanitz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leonschwanitz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonschwanitz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+username=leonschwanitz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leonschwanitz&icon=0&color=0)](https://visitcount.itsvg.in)
