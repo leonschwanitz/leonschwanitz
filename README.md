@@ -10,14 +10,11 @@ Building Apps & Products for people like you.<br />
 #### [HabitTeam](https://habitteam.app)
 The Idea of an app that inspires millions of people inspire & motivate each other. Download the app & upgrade yourself. 📱✨
 
-#### [GetYourNurse](https://getyournurse.de)
-The platform for digital & efficient placement of healthcare staffing services in Germany. 👨‍⚕️
-
 #### [PerfectStory](https://perfectstory.net)
 My own Photobooth build with a Mini Computer, a printer & own programmed Soft & Hardware. 📸
 
 ## 💼 My Company's
-[28minds](https://28minds.com), [GetYourNurse](https://getyournurse.com)
+[28minds](https://28minds.com)
 
 
 
