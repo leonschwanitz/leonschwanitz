@@ -7,8 +7,6 @@ Building Apps & Products for people like you.<br />
 ⚡ It’s all 0’s and 1’s<br />
 
 ## 🔭 Projects
-#### [HabitTeam](https://habitteam.app)
-The Idea of an app that inspires millions of people inspire & motivate each other. Download the app & upgrade yourself. 📱✨
 
 #### [PerfectStory](https://perfectstory.net)
 My own Photobooth build with a Mini Computer, a printer & own programmed Soft & Hardware. 📸
