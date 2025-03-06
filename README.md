@@ -1,5 +1,5 @@
 # 🪐 About Me
-Leon, 27 years old. Loving Science & Technology.<br />
+Hey, I'm Leon! I love science and technology.<br />
 Building Apps & Products for people like you.<br />
 
 💬 Ask me about any tech-related stuff. <br />
