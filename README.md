@@ -11,12 +11,6 @@ Building Apps & Products for people like you.<br />
 #### [PerfectStory](https://perfectstory.net)
 My own Photobooth build with a Mini Computer, a printer & own programmed Soft & Hardware. 📸
 
-## 💼 My Company's
-[28minds](https://28minds.com)
-
-
-
-
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonschwanitz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/leonschwanitz) 
