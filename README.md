@@ -3,7 +3,7 @@ Hey, I'm Leon! I love science and technology.<br />
 Building Apps & Products for people like you.<br />
 
 💬 Ask me about any tech-related stuff. <br />
-📫 How to reach me: Email - leon@28minds.com<br />
+📫 How to reach me: Email - mail@leonschwanitz.de<br />
 ⚡ It’s all 0’s and 1’s<br />
 
 ## 🔭 Projects
