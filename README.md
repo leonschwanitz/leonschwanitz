@@ -8,7 +8,7 @@ Building Apps & Products for people like you.<br />
 
 ## 🔭 Projects
 
-#### [PerfectStory](https://perfectstory.net)
+#### [Perfectstory](https://perfectstory.net)
 My own Photobooth build with a Mini Computer, a printer & own programmed Soft & Hardware. 📸
 
 #### [memories.camera](https://memories.camera)
