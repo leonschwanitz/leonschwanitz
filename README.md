@@ -14,7 +14,7 @@ My own Photobooth build with a Mini Computer, a printer & own programmed Soft & 
 #### [memories.camera](https://memories.camera)
 memories.camera lets wedding guests upload their photos and videos instantly via a simple QR code. It includes features like live slideshows, original-quality media, and interactive photo tasks to collect authentic, spontaneous memories from the entire event.
 
-#### [HideADuck](https://memories.camera](https://apps.apple.com/us/app/hideaduck/id6786869963)
+#### [HideADuck](https://apps.apple.com/us/app/hideaduck/id6786869963)
 HideADuck turns your home into an AR hide-and-seek game. Scan your room, hide ducks in real places, camouflage them to match your space — then let friends hunt them down through the camera. Play solo or with the whole group on one iPhone.
 
 
